@@ -88,3 +88,52 @@ nav>ul>li>a {
 .info {
     font-size: 12px;
 }
+
+.about-section {
+    width: 600px;
+    height: 330px;
+    margin: 20px auto;
+    padding: 50px 90px;
+    border: 2px solid rgba(0, 0, 0, 0.575);
+}
+
+.bio-section {
+    display: flex;
+    gap: 30px;
+
+}
+
+.about-section h3,
+.do-i {
+    color: rgb(24, 24, 24);
+    font-size: 2rem;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.about-section p {
+    color: rgb(117, 117, 117);
+    font-size: 1.2em;
+}
+
+.common-bold {
+    font-weight: 700;
+    font-size: 1.1em;
+}
+
+.what-i-do {
+    margin-top: 40px;
+
+}
+
+.do-i {
+    text-align: center;
+}
+
+.what-i-do p {
+    width: 800px;
+    margin: 0 auto;
+    text-align: start;
+    color: rgb(117, 117, 117);
+    font-size: 1.1em;
+}
